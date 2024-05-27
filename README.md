@@ -46,9 +46,6 @@ The broader ecosystem includes:
 
 LangSmith: A developer platform that lets you debug, test, evaluate, and monitor LLM applications and seamlessly integrates with LangChain.
 
-
-<<<<<<< HEAD
-=======
 See how a minor change to your commit message style can make you a better programmer.
 
 Format: `<type>(<scope>): <subject>`
@@ -74,4 +71,3 @@ More Examples:
 - `refactor`: (refactoring production code, eg. renaming a variable)
 - `test`: (adding missing tests, refactoring tests; no production code change)
 - `chore`: (updating grunt tasks etc; no production code change)
->>>>>>> 21d949fefaafe40bd2959d85908d16995ec0fff7
